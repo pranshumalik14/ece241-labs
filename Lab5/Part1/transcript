@@ -1,0 +1,23 @@
+# Reading C:/intelFPGA_lite/18.0/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {E:/1. Undergraduate Studies/4. Programming/4. ECE241/Lab5/Part1/testEightBit_Counter.do}
+cd "E:/1. Undergraduate Studies/4. Programming/4. ECE241/Lab5/Part1/"
+do testEightBit_Counter.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:19:11 on Oct 22,2018
+# vlog -reportprogress 300 eightBit_Counter.v 
+# -- Compiling module lab5Part1
+# -- Compiling module eightBit_Counter
+# -- Compiling module t_flipFlop
+# -- Compiling module BCD_to_HEX_Decoder
+# 
+# Top level modules:
+# 	lab5Part1
+# End time: 10:19:11 on Oct 22,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim eightBit_Counter 
+# Start time: 10:19:11 on Oct 22,2018
+# Loading work.eightBit_Counter
+# Loading work.t_flipFlop
+# End time: 10:20:02 on Oct 22,2018, Elapsed time: 0:00:51
+# Errors: 0, Warnings: 0
