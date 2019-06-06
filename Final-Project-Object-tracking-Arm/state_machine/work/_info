@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/pranshumalik14/Desktop/TAing - Sept 12 onwards
+vcontrol_ard
+Z1 !s110 1542934223
+!i10b 1
+!s100 :dcT2955jVn;chDbg^5g73
+IF4N=1[C3[GJPJ>zTSLYFZ3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1542932857
+Z4 8GPIO_arduino_interface.v
+Z5 FGPIO_arduino_interface.v
+L0 44
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1542934223.000000
+Z8 !s107 GPIO_arduino_interface.v|
+Z9 !s90 -reportprogress|300|GPIO_arduino_interface.v|
+!i113 1
+Z10 tCvgOpt 0
+vcounter
+R1
+!i10b 1
+!s100 HmOdhMdXV`3_^8j;F2QPC1
+Ij>l?L1`m3n@iIV;:5`?aV2
+R2
+R0
+R3
+R4
+R5
+L0 254
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vdatapath_ard
+R1
+!i10b 1
+!s100 4:L47<WEgk>_D6PXmZ]iS0
+I2EjPnQlSAf6@^m[f<:KlQ3
+R2
+R0
+R3
+R4
+R5
+L0 210
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vGPIO_Arduino
+R1
+!i10b 1
+!s100 oJ7BT4>6C?R]FDIYEQz=U3
+IA7Ol4e:9XTL]jYn?=]Q;50
+R2
+R0
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@g@p@i@o_@arduino
